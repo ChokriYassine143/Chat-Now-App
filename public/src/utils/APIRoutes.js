@@ -1,4 +1,4 @@
-const HOST = 'http://localhost:5000'; // Replace with your actual host
+const HOST = 'https://chat-now-app-cy143.onrender.com'; // Replace with your actual host
 
 const APIRoutes = {
     HOST: `${HOST}`,
